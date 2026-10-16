@@ -1,0 +1,7 @@
+[server]
+# مطلوب لتقديم ملفات PWA (manifest والأيقونات) من مجلد static
+enableStaticServing = true
+
+[theme]
+primaryColor = "#0F2552"
+backgroundColor = "#F8FAFC"
